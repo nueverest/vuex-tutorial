@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h3>Increment:</h3>
+    <h3 class="green">Increment:</h3>
     <increment></increment>
-    <h3>Counter:</h3>
+    <h3 class="pink">Counter:</h3>
     <counter></counter>
   </div>
 </template>
@@ -19,4 +19,4 @@
   }
 </script>
 
-<style scoped></style>
+

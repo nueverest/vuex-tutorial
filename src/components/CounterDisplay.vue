@@ -1,5 +1,7 @@
 <template>
-  Count is {{ count }}
+  <div>
+    Count is {{ count }}
+  </div>
 </template>
 
 <script>
@@ -15,4 +17,4 @@
   }
 </script>
 
-<style scoped></style>
+<!--<style scoped></style>-->

@@ -1,6 +1,6 @@
 # vuex-tutorial
 
-> A Vue.js project
+> A Vue.js project based on http://skyronic.com/2016/01/03/vuex-basics-tutorial/
 
 
 ## Build Setup

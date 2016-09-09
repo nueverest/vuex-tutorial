@@ -1,6 +1,7 @@
 # vuex-tutorial
 
 > A Vue.js project based on http://skyronic.com/2016/01/03/vuex-basics-tutorial/
+> Tests integration with blowdrycss 0.3.0 https://github.com/nueverest/blowdrycss
 
 
 ## Build Setup
